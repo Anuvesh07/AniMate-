@@ -1,0 +1,38 @@
+# Environment variables
+backend/.env
+
+# Database storage
+clip-service/chroma_db/
+
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+
+# Build artifacts
+dist/
+build/
+*.log
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+
+# Development/internal files
+create-test-image.py
+test-frontend.html
+DEVELOPMENT.md
+FINAL-STATUS.md
+FIXED-ISSUES.md
+RE-EXAMINE-FEATURE.md
+UNLIMITED-RE-EXAMINE.md
+UPGRADE-COMPLETE.md
