@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://your-image-link-here](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapers.com%2Fpicture%2Fdarling-in-the-franxx-pictures-hz5vwml8lybbccj0.html&psig=AOvVaw3drPKXtYNJSPuMziDeDspy&ust=1755099226271000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOC5k6PMhY8DFQAAAAAdAAAAABAE)" alt="AniMate Banner" width="600">
+  <img src="https://wallpapers.com/images/high/darling-in-the-franxx-pictures-hz5vwml8lybbccj0.webp" alt="AniMate Banner" width="600">
 </p>
 
 ---
@@ -12,7 +12,7 @@
 ## 🌸 What is AniMate?
 **AniMate** is your personal anime universe gateway.  
 Upload or scan your photo, and our AI magic will:
-1. Give you your **unique anime name**🍡
+1. Give you your **unique anime name** 🍡
 2. Match you with your **perfect waifu** (˶˃ ᵕ ˂˶)
 3. Recommend anime you’ll love 📺
 
